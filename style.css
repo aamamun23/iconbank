@@ -1,0 +1,9 @@
+#login-form {
+    margin-top: 50px;
+    box-shadow: 0px 0px 2px #000;
+    padding: 50px;
+}
+
+#bank-management{
+    display: none;
+}
